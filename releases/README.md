@@ -25,6 +25,13 @@ This directory catalogs compiled binaries, version control baselines, and runtim
 
 ---
 
+## 🌐 Polyglot Runtime Support
+* **C++ (`MMPA C++™`):** Handles core hardware telemetry ingestion and Win32 interop.
+* **Rust (`MMP RUST™`):** Validates memory safety and binary serial payloads.
+* **Go (`MMP GO™`):** Manages background release verification channels.
+
+---
+
 ## 🚀 Execution Instructions
 1. Clone or download the repository to local silicon.
 2. Open `InstitutionalLedger.sln` in Visual Studio 2026 Insiders.
@@ -33,4 +40,3 @@ This directory catalogs compiled binaries, version control baselines, and runtim
 
 ---
 > **Inquiry. Evidence. Human Responsibility.™ | Collecting Expertise. Advancing Innovation.™**
-
