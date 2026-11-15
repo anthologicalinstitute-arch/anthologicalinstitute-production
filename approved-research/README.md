@@ -11,10 +11,18 @@ The **approved-research** directory houses official technical whitepapers, compu
 
 ---
 
-## ⚙️ Zero-Cloud Data Architecture
-To maintain absolute data sovereignty and prevent OS-level fragmentation, all institutional pipelines execute locally across segregated directory matrices:
-* **Database Vaults:** `%AERO_DB_ROOT%\Logs\` (DuckDB analytical engines and Apache Parquet columnar storage)
-* **Staging Environments:** `%AERO_SYNC_ROOT%\Staging\` for high-throughput batch processing
+## ⚙️ Zero-Cloud Data Architecture & Vaults
+To maintain absolute data sovereignty and prevent OS-level fragmentation, all institutional pipelines execute locally across segregated directory matrices (abstracted via environment paths or local node volumes):
+* **Database Vaults:** `C:\AERO_Databases\Logs\` (DuckDB analytical engines and Apache Parquet columnar storage).
+* **Staging Environments:** `C:\AERO_Sync\Staging\` for high-throughput batch processing and Z-score variance audits.
+
+---
+
+## 🌐 Polyglot Research Frameworks (MMPA™)
+* **C++ (`MMPA C++™`):** SIMD vectorization and high-frequency quantitative simulations.
+* **Rust (`MMP RUST™`):** Zero-cost abstraction data contracts and immutable Parquet verification.
+* **Go (`MMP GO™`):** Pipeline orchestration and concurrent local telemetry routing.
+* **PHP (`MMP PHP™`):** Rapid documentation scaffolding and research report template generation.
 
 ---
 
