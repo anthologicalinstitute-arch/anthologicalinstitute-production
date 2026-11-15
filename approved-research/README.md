@@ -27,4 +27,3 @@ Research artifacts stored in this directory adhere to rigorous compliance schema
 
 ---
 > **Inquiry. Evidence. Human Responsibility.™ | Collecting Expertise. Advancing Innovation.™**
-
